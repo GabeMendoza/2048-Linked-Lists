@@ -18,5 +18,7 @@ Do as you wish, you have my permission
 ##Donations
 
 I made this as a project for class, and it's hosted on GitHub (which means I don't have any hosting costs), but if you enjoyed the game and feel like buying me coffee, you can donate at my BTC address: 
-	1Lf6erzRCsAjmA1NajYZrsXVFoqebtCuAd. 
+	1Lf6erzRCsAjmA1NajYZrsXVFoqebtCuAd.
+	
+	
 Thank you very much!
