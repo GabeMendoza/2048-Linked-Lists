@@ -1,4 +1,4 @@
-2048 - Console - C++
+##2048 - CONSOLE - C++
 
 This is the text based console port of the 2048 game made by [Gabriele Cirulli](https://github.com/gabrielecirulli/2048)
 that I wrote as a project for a programming course at UIC. This game, written in C++ uses Linked Lists to store every move 
