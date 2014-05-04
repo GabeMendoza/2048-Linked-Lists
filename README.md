@@ -9,14 +9,14 @@ Feel free to contribute with pull requests to make the game more efficient.
 
 If you want to build from source just do the folloeing from the proper directory, replacing SYSTEM with UNIX for Linux/Mac 
 or WIN for 32/64bit Windows.
-
+,,,
 	1)  g++ 2048_LinkedLists_SYSTEM.cpp -o 2048
 
 	
 	2)  ./2048 for Unix bases systems
 				or
 		2048.exe for windows bases systems.
-
+,,,
 ##License 
 
 Do as you wish, you have my permission
